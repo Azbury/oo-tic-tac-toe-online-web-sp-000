@@ -127,5 +127,5 @@ class TicTacToe
       play
     end
   end
-  
+
 end
